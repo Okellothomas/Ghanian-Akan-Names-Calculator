@@ -14,7 +14,7 @@ This is a web application that takes a user's birthday and calculates the day of
 * [Authors information](#contact)
 
 ## Description
-Frequently, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+Frequently, children are given their first name as a 'day name' which corresponds to the day in the week they were sure
 Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, we will be able to take the user's birthday and calculate the day of the week they were born and then depending on their gender output their Akan Name.
 
 
